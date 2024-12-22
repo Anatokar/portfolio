@@ -10,4 +10,4 @@
 📧 Email: avtokarevvv@gmain.com  
 📞 Телефон: +7 988 317-67-20
 
-![Моё фото](C:\Users\Анатолий\Desktop\portfolio\photo_2024-12-16_11-14-33.png)
+![Моё фото](/photo.png)
